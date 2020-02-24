@@ -1,4 +1,8 @@
 # DesignPatterns
 设计模式
 
-包含单例模式和观察者模式的例子，代码拉取后可直接运行。
+代码拉取后可直接运行。
+
+SingletonPattern：单例模式
+ObservePattern：观察者模式
+
