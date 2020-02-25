@@ -7,3 +7,5 @@ SingletonPattern：单例模式
 
 ObservePattern：观察者模式
 
+DecoratorPattern：装饰者模式
+
